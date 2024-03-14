@@ -112,7 +112,7 @@ Jean-Marc L.”
 - Analytics
 
 # 2. Construire le MCD, MLD, MPD
-![MPD](C:\Workspaces\cdaMaif\brief4\MPD.JPG)
+![MPD](https://github.com/CharlotteCharrier/brief4/blob/main/MPD.JPG)
 
 # 3. Créer ma base de données
 
