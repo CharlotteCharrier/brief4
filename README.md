@@ -137,4 +137,5 @@ Pour générer mon jeu de données :
 Pour les doutes et les questions de conception de bdd :
 
 -Mes compagnons du fond de la classe : Omar, Morgan et Olivier
+
 -[Lucidchart](https://www.lucidchart.com/pages/fr)
