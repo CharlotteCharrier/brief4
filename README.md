@@ -78,7 +78,6 @@ Jean-Marc L.”
 - Possibilité de filtrer les publications par date, auteur etc…✅
 - L’utilisateur doit recevoir un guide d’utilisation à la 1ère connexion et doit pouvoir passer ce tuto ✅
 - Créer des groupes avec un système de rôles ✅
-- 
 
 ### Questions à poser au client :
 
